@@ -23,5 +23,5 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 
 ### 下载
   - [Download](https://github.com/nessessary/SeeComic/releases/download/v1.1.83/SeeComic_Setup.zip)
-  - [百度网盘](链接：https://pan.baidu.com/s/1PlBdGsmSmMCU5X-otjfzmg)
+  - [百度网盘](https://pan.baidu.com/s/1PlBdGsmSmMCU5X-otjfzmg)
     提取码：sgjd
