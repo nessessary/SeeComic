@@ -27,5 +27,5 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载 ver 1.1.86
-  - [百度网盘](https://pan.baidu.com/s/10eRjfphgwswN90ivhuGbmA)
-提取码：9g0c
+  - [百度网盘](https://pan.baidu.com/s/1JQ5DItlxXafSH_Du7ZdFhA)
+提取码：2ruo
