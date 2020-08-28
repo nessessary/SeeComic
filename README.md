@@ -18,10 +18,14 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 功能基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
   - 免费捐赠模式: 觉得有帮助， 可以在软件的关于里面找到捐赠, 不捐赠也是全功能开放无时间限制； 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
 
+### changelog
+  - v1.1.86
+  - 解决rar大文件打开慢的问题
+  - 解决一些bug
+
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
-### 下载
-  - [Download](https://github.com/nessessary/SeeComic/releases/download/v1.1.83/SeeComic_Setup.zip)
-  - [百度网盘](https://pan.baidu.com/s/1PlBdGsmSmMCU5X-otjfzmg)
-    提取码：sgjd
+### 下载 ver 1.1.86
+  - [百度网盘](https://pan.baidu.com/s/10eRjfphgwswN90ivhuGbmA)
+提取码：9g0c
