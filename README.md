@@ -1,5 +1,5 @@
 # SeeComic
-Windows下看漫画的工具软件， 功能兼容MangaMeeya
+Windows下看漫画的工具软件， 功能兼容MangaMeeya, 注意，并不能完全替代MangaMeeya，特性里没有列出的功能都是没有的
 
 ### 支持
 - Win7/Win10 64位
@@ -25,6 +25,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
+  - 现阶段的主要目标还是解决速度的问题，包括解压和图像绘制速度等; 新功能暂时不会开发，bug逐步解决。
 
 ### 下载 ver 1.1.86
   - [百度网盘](https://pan.baidu.com/s/1JQ5DItlxXafSH_Du7ZdFhA)
