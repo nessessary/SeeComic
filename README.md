@@ -5,7 +5,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya, 注意，并不能
 - Win7/Win10 64位
 
 ### 特性
-  - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 上下左右移动图片位置, PageDown/Up翻页
+  - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 上下左右移动图片位置, PageDown/Up翻页, Ctrl+End跳到尾页
   - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins)
   - 智能开页: 根据文件名判断开页方向
   - 目录连续浏览: 跳到下一个兄弟目录， 但不会跳到上一层目录
@@ -36,6 +36,3 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya, 注意，并不能
 ### 下载 ver 1.1.87
   - [百度网盘](https://pan.baidu.com/s/150qebByJ7KIS3aBufGgh9Q)
 提取码：g9it
-### 下载 ver 1.2.88 beta
-  - [百度网盘](https://pan.baidu.com/s/1z1SEuqwT65e5Cx4EaI_Twg)
-提取码：0wpz
