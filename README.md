@@ -20,6 +20,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 本软件为演示软件，作为个人作品展示， 请在安装后24小时后删除
 
 ### changelog
+  - v2.0.95
+  - opencv支持tbb
   - V2.0.92
   - 变更图像引擎为opencv  
 	- v1.2.91
@@ -44,3 +46,6 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
  - ver2.0.92
  链接：https://pan.baidu.com/s/1Y5ZkniujNqzsBjx0hnD2fA
 提取码：rxf3
+ - ver2.0.95
+ 链接：https://pan.baidu.com/s/11bqtOmfeKK29tqMbv7RFGw
+提取码：yoc0
