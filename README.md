@@ -23,7 +23,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - v2.0.95
   - opencv支持tbb
   - V2.0.92
-  - 变更图像引擎为opencv  
+  - 变更图像引擎为opencv
 	- v1.2.91
 	- 重新添加压缩文件列表排序
   - v1.2.89
@@ -40,12 +40,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
-### 下载 ver 1.2.91
-  - [百度网盘](https://pan.baidu.com/s/1H4q1xc2uMHcVzmoiZIxG5w)
-提取码：n01p
- - ver2.0.92
- 链接：https://pan.baidu.com/s/1Y5ZkniujNqzsBjx0hnD2fA
-提取码：rxf3
+### 下载
+
  - ver2.0.95
  链接：https://pan.baidu.com/s/11bqtOmfeKK29tqMbv7RFGw
 提取码：yoc0
