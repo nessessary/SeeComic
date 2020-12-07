@@ -17,6 +17,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 目录或压缩文件右键打开: 跳到下一个目录是基于文件浏览器排序
   - 功能基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
+  - 本软件为免费软件
 
 ### changelog
   - v2.0.96
@@ -45,7 +46,3 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
  - ver2.0.96
  链接：https://pan.baidu.com/s/1hem4c_YAoMADDb9R4rWvBA
 提取码：bp4u
-
- - ver2.0.95
- 链接：https://pan.baidu.com/s/11bqtOmfeKK29tqMbv7RFGw
-提取码：yoc0
