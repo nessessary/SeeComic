@@ -20,7 +20,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 本软件为免费软件
 
 ### changelog
-  - v2.0.96
+  - v2.0.97
     - 优化滚屏
   - v2.0.95
     - opencv支持tbb
@@ -43,6 +43,6 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.0.96
- 链接：https://pan.baidu.com/s/1hem4c_YAoMADDb9R4rWvBA
-提取码：bp4u
+ - ver2.0.97
+ 链接：https://pan.baidu.com/s/1KhIY3Pn7hOSTaQrgkd-Hpw
+ 提取码：d0ba
