@@ -20,6 +20,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 本软件为免费软件
 
 ### changelog
+  - v2.0.98
+    - 添加tbb.dll
   - v2.0.97
     - 优化滚屏
   - v2.0.95
@@ -43,6 +45,6 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.0.97
- 链接：https://pan.baidu.com/s/1KhIY3Pn7hOSTaQrgkd-Hpw
- 提取码：d0ba
+ - ver2.0.98
+ 链接：https://pan.baidu.com/s/16bldEh-rMALuHv_aLXPk-A
+提取码：e3k8
