@@ -20,7 +20,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 本软件为免费软件, 不开源的原因有两个，一个是第三方依赖太多，编译较麻烦；第二个是用了一些之前公司开发的代码，不方便开源。
 
 ### changelog
-  - v2.0.98
+  - v2.0.99
     - 添加tbb.dll
   - v2.0.97
     - 优化滚屏
@@ -45,6 +45,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.0.98
- 链接：https://pan.baidu.com/s/16bldEh-rMALuHv_aLXPk-A
-提取码：e3k8
+ - ver2.0.99
+ 链接：https://pan.baidu.com/s/1MBWDSj7O7VIof3b2OgOiWQ
+ 提取码：vv6e
+ 
