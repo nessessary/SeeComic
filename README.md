@@ -19,6 +19,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
   - 本软件为免费软件, 不开源的原因有两个，一个是第三方依赖太多，编译较麻烦；第二个是用了一些之前公司开发的代码，不方便开源。
 
+###视频演示
+  - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
+
 ### changelog
   - v2.0.99
     - 添加tbb.dll
@@ -48,4 +51,3 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
  - ver2.0.99
  链接：https://pan.baidu.com/s/1MBWDSj7O7VIof3b2OgOiWQ
  提取码：vv6e
- 
