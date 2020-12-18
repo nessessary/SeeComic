@@ -23,6 +23,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.0.100
+    - 修复快速翻页浏览下一目录时有时候直接跳过的bug
   - v2.0.99
     - 添加tbb.dll
   - v2.0.97
@@ -48,6 +50,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
+ - ver2.0.100
+ 链接：https://pan.baidu.com/s/1nfe-DY5SO2YIfLeaSBjsRg
+提取码：trzq
+
  - ver2.0.99
  链接：https://pan.baidu.com/s/1MBWDSj7O7VIof3b2OgOiWQ
  提取码：vv6e
