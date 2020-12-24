@@ -24,7 +24,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
-  - v2.1.102
+  - v2.1.103
     - 添加删除压缩文件子文件的功能
   - v2.0.101
     - 修正快速浏览时gif播几帧再跳过
@@ -55,6 +55,6 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.0.102
- 链接：https://pan.baidu.com/s/1jPR-jY_1M3Gr1KRgDfkLGA
- 提取码：2pwc
+ - ver2.0.103
+ 链接：https://pan.baidu.com/s/1EB4lyYaMM0UzKnQm3ENicw
+提取码：whbn
