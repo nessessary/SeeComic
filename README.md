@@ -17,6 +17,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 目录或压缩文件右键打开: 跳到下一个目录是基于文件浏览器排序
   - 功能基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
   - 压缩文件删除子文件: 按快捷键(Ctrl+Del)删除当前显示的压缩文件中的子文件， 在该压缩文件关闭时（或程序关闭时)生效; 需要在config.ini中设置本地的压缩软件路径.
+  - 支持压缩文件密码: 输入的密码保存到文本里， 下次可以优先使用密码列表解密. 嵌套压缩不支持.
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
   - 本软件为免费软件, 不开源的原因有两个，一个是第三方依赖太多，编译较麻烦；第二个是用了一些之前公司开发的代码，不方便开源。
 
@@ -24,6 +25,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.2.105
+    - 添加压缩文件密码支持
+    - 修复一些bug
   - v2.1.103
     - 添加删除压缩文件子文件的功能
   - v2.0.101
@@ -55,6 +59,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.0.103
+ - ver2.2.105
+ 链接：https://pan.baidu.com/s/1LwkZ0IVJLk6Rjexa6hSPBQ
+ 提取码：591e
+
+ - ver2.1.103
  链接：https://pan.baidu.com/s/1EB4lyYaMM0UzKnQm3ENicw
 提取码：whbn
