@@ -25,6 +25,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.2.106
+    - config.ini移动到系统AppData目录下，可通过菜单的“打开config.ini”进行编辑,重启后生效. 文档说明参考例子.
   - v2.2.105
     - 添加压缩文件密码支持
     - 修复一些bug
@@ -59,10 +61,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - ver2.2.105
- 链接：https://pan.baidu.com/s/1LwkZ0IVJLk6Rjexa6hSPBQ
- 提取码：591e
-
+ - ver2.2.106
+ 链接：https://pan.baidu.com/s/1sv5GDgCEcDnznxuvUFxacA
+ 提取码：h6sv
+ 
  - ver2.1.103
  链接：https://pan.baidu.com/s/1EB4lyYaMM0UzKnQm3ENicw
 提取码：whbn
