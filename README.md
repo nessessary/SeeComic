@@ -12,7 +12,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 支持7z,rar/rar5, zip, cbz, cbr压缩格式: 文件浏览器右键打开; 内嵌压缩文件暂时不支持.
   - 64位: 支持大图，不会出现Win32里内存不足的提示
   - gif/webp动图播放: 连续翻页时只会显示gif的前面几帧
-  - 幻灯播放: 点击右下角工具条的播放按钮(F5)
+  - 幻灯播放: 点击右下角工具条的播放按钮(F5), 使用快捷键'[',']'来变更幻灯播放的时间间隔
   - unicode支持: 可以读取带有特殊字符的文件
   - 目录或压缩文件右键打开: 跳到下一个目录是基于文件浏览器排序
   - 功能基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
@@ -25,6 +25,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.3.109
+    - 可自定义滚屏的速度， 通过修改config.ini里的BrowserWheelStep字段
+    - 默认调慢了一点滚屏速度
   - v2.3.108
     - 使用快捷键‘[’,']'来变更幻灯播放的时间间隔, 变更的幅度可以在config.ini中修改
   - v2.2.106
@@ -61,8 +64,13 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
+  - 近期更新比较频繁， 主要功能已开发结束，后面更新会比较慢。有报bug和建议的请尽快(去知乎发也可以)，马上转其它项目开发。
 
 ### 下载
+ - ver2.3.109
+ 链接：https://pan.baidu.com/s/175yUFVUrC6WkLEW9sknm1w
+提取码：vzz8
+
  - ver2.3.108
  链接：https://pan.baidu.com/s/193baIYK0MQ0uANpRLCcKrA
 提取码：o253
