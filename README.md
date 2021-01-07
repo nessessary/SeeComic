@@ -64,21 +64,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
-  - 近期更新比较频繁， 主要功能已开发结束，后面更新会比较慢。有报bug和建议的请尽快(去知乎发也可以)，马上转其它项目开发。
 
 ### 下载
  - ver2.3.109
  链接：https://pan.baidu.com/s/175yUFVUrC6WkLEW9sknm1w
 提取码：vzz8
-
- - ver2.3.108
- 链接：https://pan.baidu.com/s/193baIYK0MQ0uANpRLCcKrA
-提取码：o253
-
- - ver2.2.106
- 链接：https://pan.baidu.com/s/1sv5GDgCEcDnznxuvUFxacA
- 提取码：h6sv
-
- - ver2.1.103
- 链接：https://pan.baidu.com/s/1EB4lyYaMM0UzKnQm3ENicw
-提取码：whbn
