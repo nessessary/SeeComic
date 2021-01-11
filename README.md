@@ -25,6 +25,8 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.3.110
+    - 把白背景替换成黑背景，背景图见bg.png, 建议有美工基础的同学可以发一些图片作为替换参考。
   - v2.3.109
     - 可自定义滚屏的速度， 通过修改config.ini里的BrowserWheelStep字段
     - 默认调慢了一点滚屏速度
@@ -66,6 +68,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
+ - ver2.3.110
+ 链接：https://pan.baidu.com/s/1bplyqqZZsjCQclU3W8w48A
+提取码：ysfs
+
  - ver2.3.109
  链接：https://pan.baidu.com/s/175yUFVUrC6WkLEW9sknm1w
 提取码：vzz8
