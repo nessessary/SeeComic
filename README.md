@@ -1,12 +1,12 @@
 # SeeComic
-Windows下看漫画的工具软件， 功能兼容MangaMeeya
+Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片浏览器.
 
 ### 支持
 - Win7/Win10 64位
 
 ### 特性
   - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 上下左右移动图片位置, PageDown/Up翻页, Ctrl+End跳到尾页
-  - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins)
+  - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins); 全屏幕(Enter),还原(Esc)
   - 智能开页: 根据文件名判断开页方向
   - 目录连续浏览: 跳到下一个兄弟目录， 但不会跳到上一层目录
   - 支持7z,rar/rar5, zip, cbz, cbr压缩格式: 文件浏览器右键打开; 内嵌压缩文件暂时不支持.
@@ -26,7 +26,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
 
 ### changelog
   - v2.3.110
-    - 把白背景替换成黑背景，背景图见bg.png, 建议有美工基础的同学可以发一些图片作为替换参考。
+    - 把白背景替换成黑背景
   - v2.3.109
     - 可自定义滚屏的速度， 通过修改config.ini里的BrowserWheelStep字段
     - 默认调慢了一点滚屏速度
@@ -71,7 +71,3 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya
  - ver2.3.110
  链接：https://pan.baidu.com/s/1bplyqqZZsjCQclU3W8w48A
 提取码：ysfs
-
- - ver2.3.109
- 链接：https://pan.baidu.com/s/175yUFVUrC6WkLEW9sknm1w
-提取码：vzz8
