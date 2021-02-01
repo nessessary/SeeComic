@@ -25,6 +25,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.3.111 (稳定版)
+    - 修正加载zip偶尔卡死的问题
+    - 右下角添加全屏幕按钮
+    - 全屏幕时鼠标移动到右上角弹出关闭面板
   - v2.3.110
     - 把白背景替换成黑背景
   - v2.3.109
@@ -68,10 +72,10 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
 
 ### 下载
- - 您来晚了
- - ver2.3.110
- 链接：https://pan.baidu.com/s/1bplyqqZZsjCQclU3W8w48A
-
+ - ver2.3.111
+ 链接：https://pan.baidu.com/s/1OJ6O8IGtlYsgkL7oif9IuQ
+ 提取码：s8ub
 
 ### 总结
-  - 经过一段时间的更新， 基本达到了设计目标， 补充了Meeya的不足之处，本人已经实现了替代，很少用Meeya了。 有鉴于转化率太低， 用户稀少， 就不发布了， 感谢点星的十位同学，未来有更新可以发信索取。
+  - 经过一段时间的更新， 基本达到了设计目标， 补充了Meeya的不足之处，本人已经实现了替代，很少用Meeya了。
+  - 鉴于有同学希望继续更新，那么就再更新一段时间， 免费软件还希望大家口碑推广，认可的请点赞， 也可去知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 发评论, 用户太少肯定是没有开发动力的。
