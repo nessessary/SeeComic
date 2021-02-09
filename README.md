@@ -25,7 +25,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
-  - v2.3.111 (稳定版)
+  - v2.3.112
+    - 全屏幕时， 鼠标移动到正下方出控制面板
+  - v2.3.111
     - 修正加载zip偶尔卡死的问题
     - 右下角添加全屏幕按钮
     - 全屏幕时鼠标移动到右上角弹出关闭面板
@@ -47,12 +49,6 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
     - 修正快速浏览时gif播几帧再跳过
   - v2.0.100
     - 修复快速翻页浏览下一目录时有时候直接跳过的bug
-  - v2.0.99
-    - 添加tbb.dll
-  - v2.0.97
-    - 优化滚屏
-  - v2.0.95
-    - opencv支持tbb
   - V2.0.92
     - 变更图像引擎为opencv
   - v1.2.91
@@ -70,11 +66,13 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
+### 用户提的开发建议或bug ( 会合并到作者的开发计划列表里，可能未来的某一天实现，这个列表还有点长)
+  - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
 
 ### 下载
- - ver2.3.111
- 链接：https://pan.baidu.com/s/1OJ6O8IGtlYsgkL7oif9IuQ
- 提取码：s8ub
+ - ver2.3.112
+ 链接：https://pan.baidu.com/s/1dtADTOIR2JvNcENzMexp4Q
+ 提取码：o2ak
 
 ### 总结
   - 经过一段时间的更新， 基本达到了设计目标， 补充了Meeya的不足之处，本人已经实现了替代，很少用Meeya了。
