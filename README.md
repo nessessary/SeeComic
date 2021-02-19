@@ -28,6 +28,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 ### changelog
   - v2.4.115
     - 菜单打开waifu2x滤镜，需要GPU， 否则打开速度较慢；该滤镜能放大老的分辨率较低的图片； 默认不开启，只处理小于800*800的图片; 参数可在config.ini里调整. 来自 https://github.com/nihui/waifu2x-ncnn-vulkan.git
+    - 右键菜单添加了快捷键`, 因此需要先删除再安装
   - v2.3.112
     - 全屏幕时， 鼠标移动到正下方出控制面板
   - v2.3.111
