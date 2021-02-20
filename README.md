@@ -70,6 +70,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
+  - 知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 评论
   - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
   - 图片的放大缩小功能, 自定义一个分辨率.
 
@@ -81,7 +82,3 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 - ver2.3.112
  链接：https://pan.baidu.com/s/1dtADTOIR2JvNcENzMexp4Q
  提取码：o2ak
-
-### 总结
-  - 经过一段时间的更新， 基本达到了设计目标， 补充了Meeya的不足之处，本人已经实现了替代，很少用Meeya了。
-  - 鉴于有同学希望继续更新，那么就再更新一段时间， 免费软件还希望大家口碑推广，认可的请点赞， 也可去知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 发评论, 用户太少肯定是没有开发动力的。
