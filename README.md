@@ -26,6 +26,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
 ### changelog
+  - v2.4.118
+    - 因为waifu2x较慢, 默认程序开启时为不打开， 需要手动开启
+    - 修复几处小bug
   - v2.4.115
     - 菜单打开waifu2x滤镜，需要GPU， 否则打开速度较慢；该滤镜能放大老的分辨率较低的图片； 默认不开启，只处理小于800*800的图片; 参数可在config.ini里调整. 来自 https://github.com/nihui/waifu2x-ncnn-vulkan.git
     - 右键菜单添加了快捷键`, 因此需要先删除再安装
@@ -73,12 +76,9 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - 知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 评论
   - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
   - 图片的放大缩小功能, 自定义一个分辨率.
+  - 碰到崩溃可发送C:\Users\Administrator\AppData\Local\CrashDumps目录下的dmp文件给我, 记得带下版本号.
 
 ### 下载
-- ver2.4.115
-链接：https://pan.baidu.com/s/1YUqYcTr0CrjP4OLcg4JvtQ
-提取码：syah
-
-- ver2.3.112
- 链接：https://pan.baidu.com/s/1dtADTOIR2JvNcENzMexp4Q
- 提取码：o2ak
+- ver2.4.118
+链接：https://pan.baidu.com/s/1m6FwzVy_eFS1O2i5zfWrXA
+提取码：nd8b
