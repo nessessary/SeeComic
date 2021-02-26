@@ -6,7 +6,7 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 
 ### 特性
   - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 上下左右移动图片位置, PageDown/Up翻页, Ctrl+End跳到尾页
-  - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins); 全屏幕(Enter),还原(Esc)
+  - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins), 自定义分辨率(F12); 全屏幕(Enter),还原(Esc)
   - 智能开页: 根据文件名判断开页方向
   - 目录连续浏览: 跳到下一个兄弟目录， 但不会跳到上一层目录
   - 支持7z,rar/rar5, zip, cbz, cbr压缩格式: 文件浏览器右键打开; 内嵌压缩文件暂时不支持.
@@ -25,7 +25,18 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
 ### 视频演示
   - https://v.youku.com/v_show/id_XNTAwNjgxMjEzMg==.html
 
+### 下载
+  - ver2.4.120
+  链接：https://pan.baidu.com/s/1-FYRFiZB9LU33fqWjGTTRw
+提取码：uzy4
+
+  - ver2.4.118
+  链接：https://pan.baidu.com/s/1m6FwzVy_eFS1O2i5zfWrXA
+  提取码：nd8b
+
 ### changelog
+  - v2.4.120
+    - 应网友的要求添加自定义分辨率, 指定一个分辨率打开图片.
   - v2.4.118
     - 因为waifu2x较慢, 默认程序开启时为不打开， 需要手动开启
     - 修复几处小bug
@@ -75,10 +86,5 @@ Windows下看漫画的工具软件， 功能兼容MangaMeeya; 也可作为图片
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
   - 知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 评论
   - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
-  - 图片的放大缩小功能, 自定义一个分辨率.
+  - ~~图片的放大缩小功能, 自定义一个分辨率.~~
   - 碰到崩溃可发送C:\Users\Administrator\AppData\Local\CrashDumps目录下的dmp文件给我, 记得带下版本号.
-
-### 下载
-- ver2.4.118
-链接：https://pan.baidu.com/s/1m6FwzVy_eFS1O2i5zfWrXA
-提取码：nd8b
