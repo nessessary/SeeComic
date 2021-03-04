@@ -23,15 +23,18 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
   - 本软件为免费软件, 不开源的原因有两个，一个是第三方依赖太多，编译较麻烦；第二个是用了一些之前公司开发的代码，不方便开源。
 
 ### 下载
-  - ver2.4.120
-  链接：https://pan.baidu.com/s/1-FYRFiZB9LU33fqWjGTTRw
-提取码：uzy4
+  - ver2.4.121
+  链接：https://pan.baidu.com/s/16vACifSIJZ7ecwLTfQ7ylQ
+  提取码：bq0z
 
   - ver2.4.118
   链接：https://pan.baidu.com/s/1m6FwzVy_eFS1O2i5zfWrXA
   提取码：nd8b
 
 ### changelog
+  - v2.4.121
+    - 修复F5在全屏幕切换后失效的问题
+    - 全屏幕下面板延迟几秒后消失
   - v2.4.120
     - 应网友的要求添加自定义分辨率, 指定一个分辨率打开图片.
   - v2.4.118
