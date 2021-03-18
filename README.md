@@ -7,6 +7,7 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
 ### 特性
   - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 上下左右移动图片位置, PageDown/Up翻页, Ctrl+End跳到尾页
   - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins), 自定义分辨率(F12); 全屏幕(Enter),还原(Esc)
+  - 单双页显示: 双页时不显示gif
   - 智能开页: 根据文件名判断开页方向
   - 目录连续浏览: 跳到下一个兄弟目录， 但不会跳到上一层目录
   - 支持7z,rar/rar5, zip, cbz, cbr压缩格式: 文件浏览器右键打开; 内嵌压缩文件暂时不支持.
@@ -23,15 +24,17 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
   - 本软件为免费软件, 不开源的原因有两个，一个是第三方依赖太多，编译较麻烦；第二个是用了一些之前公司开发的代码，不方便开源。
 
 ### 下载
+  - ver2.5.123
+  链接：https://pan.baidu.com/s/11X7syXhtlsxdM7EU1MpOhw
+  提取码：1lo0
+
   - ver2.4.121
   链接：https://pan.baidu.com/s/16vACifSIJZ7ecwLTfQ7ylQ
   提取码：bq0z
 
-  - ver2.4.118
-  链接：https://pan.baidu.com/s/1m6FwzVy_eFS1O2i5zfWrXA
-  提取码：nd8b
-
 ### changelog
+  - v2.5.123
+    - 添加双页显示, 双页时会跳过gif，webp
   - v2.4.121
     - 修复F5在全屏幕切换后失效的问题
     - 全屏幕下面板延迟几秒后消失
@@ -88,3 +91,4 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
   - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
   - ~~图片的放大缩小功能, 自定义一个分辨率.~~
   - 碰到崩溃可发送C:\Users\Administrator\AppData\Local\CrashDumps目录下的dmp文件给我, 记得带下版本号.
+  - 现有用户数量极低(30-50)，大规模开发告一段落， 有需求可以提， 但估计要累积到一定程度才会统一开发一次;bug会优先解决.
