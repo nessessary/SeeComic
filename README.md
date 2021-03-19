@@ -26,11 +26,6 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
 ### 下载
   - ver2.5.123
   链接：https://pan.baidu.com/s/11X7syXhtlsxdM7EU1MpOhw
-  提取码：1lo0
-
-  - ver2.4.121
-  链接：https://pan.baidu.com/s/16vACifSIJZ7ecwLTfQ7ylQ
-  提取码：bq0z
 
 ### changelog
   - v2.5.123
@@ -87,8 +82,7 @@ Windows下看漫画的工具软件， 部分功能兼容MangaMeeya; 也可作为
 
 ### 反馈
   - 意见或bug请发送 1764462457@qq.com 或者直接提Issues
-  - 知乎(https://www.zhihu.com/question/21598701/answer/1337337854) 评论
   - 类似手机app的长竖图浏览方式； 把一个包里的图片合并成一幅长图再浏览.
   - ~~图片的放大缩小功能, 自定义一个分辨率.~~
   - 碰到崩溃可发送C:\Users\Administrator\AppData\Local\CrashDumps目录下的dmp文件给我, 记得带下版本号.
-  - 现有用户数量极低(30-50)，大规模开发告一段落， 有需求可以提， 但估计要累积到一定程度才会统一开发一次;bug会优先解决.
+  - 停更，有需要的发邮件索取
