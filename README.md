@@ -27,12 +27,12 @@ Windows下看漫画的工具软件， 核心功能兼容MangaMeeya, （ MM足够
 
 ### 下载
   - 该软件不是MangaMeeya的完全替代， 请仔细看特性再下载，没有的都是不支持的.
-  - v2.5.127 链接：https://pan.baidu.com/s/1wSNEZtN_GZtPoOOkfXkwDQ
-提取码：wr61
+  - v2.5.128 链接：https://pan.baidu.com/s/1z1uNfS-CQFZ3Se2xjD6ong
+提取码：swgx
 
 ### changelog
-  - v2.5.127 2021/9/5
-    - 解决某些机器写不上config.ini的问题
+  - v2.5.128 2021/9/21
+    - 解决某些机器写不上config.ini的问题, 修正文件列表数字排序
   - v2.5.126
     - bug 修正文件列表数字排序
   - v2.5.124
