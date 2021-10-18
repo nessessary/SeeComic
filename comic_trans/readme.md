@@ -1,7 +1,9 @@
 comic_trans
 
 支持漫画的图片翻译， 无需人工操作， 自动翻译生成一幅新的翻译后图片。当前版本只支持英文翻译中文。
-
+![image](https://github.com/nessessary/seecomic/raw/master/pics/comic_trans_sample001.jpg)<br>
+![image](https://github.com/nessessary/seecomic/raw/master/pics/comic_trans_sample002.jpg)<br>
+![image](https://github.com/nessessary/seecomic/raw/master/pics/comic_trans_sample003.jpg)<br>
 1. 网盘下载, 可先下载翻译例子看一下效果, 确定接受当前软件达到的效果再继续， 因为是自动生成， 排版不完美(未来主要修正排版)，加上机翻，只是看个大概意思，较真的就别下了；不接受任何形式的退款行为。
 2. 解压到seecomic目录下seecomic\comic_trans; 未安装seecomic可解压至任意目录
 3. 调用gethardid.exe获取硬件id， 通过邮件(1764462457@qq.com)发送给作者
@@ -11,3 +13,4 @@ comic_trans
 7. 警告：该软件为小小众软件， 收费不是为了盈利（也无法盈利， 需要巨量的开发时间，可预见付费用户寥寥无几），只是为了屏蔽无聊的喷子(无视开发者劳动，找些小毛病肆意使用情绪语言)。软件功能有限，如有付费用户将持续更新.
 
 现征集几名内测的小伙伴， 可免费获取注册文件， 需要按上面的步骤发邮件(1764462457@qq.com)索取， 测试后帮助反馈bug， 比如无法运行, 或运行中碰到的bug; 能正常运行的话也请反馈。
+
