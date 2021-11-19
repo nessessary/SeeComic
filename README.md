@@ -5,7 +5,7 @@ Windows下看漫画的工具软件， 核心功能兼容MangaMeeya, （ MM足够
 - Win7/Win10 64位
 
 ### 特性
-  - 漫画浏览模式: 空格跳到图片的下一个浏览区域, 鼠标滚轮上下移动图片，方向键上下左右移动图片, PageDown/Up翻页, Ctrl+End跳到尾页,
+  - 漫画浏览模式: 空格/单击左键跳到图片的下一个浏览区域, 鼠标滚轮上下移动图片，方向键上下左右移动图片, PageDown/Up翻页, Ctrl+End跳到尾页, +/-放大缩小图片，按住左键拖拽图片
   - 窗口适应: 宽高(HOME)，满屏(End)， 原始(Ins), 自定义分辨率(F12); 全屏幕(Enter),还原(Esc)
   - 单双页显示: 双页时不显示gif
   - 智能开页: 根据文件名判断开页方向
@@ -20,18 +20,21 @@ Windows下看漫画的工具软件， 核心功能兼容MangaMeeya, （ MM足够
   - 功能基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
   - 压缩文件删除子文件: 按快捷键(Ctrl+Del)删除当前显示的压缩文件中的子文件， 在该压缩文件关闭时（或程序关闭时)生效; 需要在config.ini中设置本地的压缩软件路径.
   - 支持压缩文件密码: 输入的密码保存到文本里， 下次可以优先使用密码列表解密. 嵌套压缩不支持, 文件列表加密的不支持.
-  - waifu2x滤镜： 在内存中处理， 不破坏原图, 使用默认参数.
+  - waifu2x滤镜： (W)在内存中处理， 不破坏原图, 使用默认参数.
+  - [漫画图片翻译](https://github.com/nessessary/SeeComic/blob/master/comic_trans/readme.md)： (T)生成一本新的翻译后压缩包, 在一个命令行中生成， 生成后自动打开
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
-  - 预计下一个版本转为收费。
-  - 命令行参数/register注册文件关联, /unregister取消文件关联
-  - [漫画图片翻译](https://github.com/nessessary/SeeComic/blob/master/comic_trans/readme.md)
+  - 主程序免费，增强功能收费比如图片翻译
 
 ### 下载
   - 该软件不是MangaMeeya的完全替代， 请仔细看特性再下载，没有的都是不支持的.
-  - v2.5.131 链接：https://pan.baidu.com/s/1cslxb_yBIExMzzjXp8iAog
+  - 链接：https://pan.baidu.com/s/1cslxb_yBIExMzzjXp8iAog
 提取码：ttxr
 
 ### changelog
+  - v2.6.132 2021/11/20
+    - 优化7z加载,7z不支持文件列表排序， 按顺序加载
+    - Ctrl+pagedown/up 直接跳到下一目录
+    - 按住鼠标左键可直接拖拽移动图片
   - v2.5.131 2021/11/13
     - 完善自定义分辨率对话框，锁定宽高，快捷键+，-放大缩小图片
     - 菜单添加翻译， 功能由“漫画图片翻译”命令行提供
