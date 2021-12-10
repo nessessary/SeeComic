@@ -30,6 +30,9 @@ Windows下看漫画的工具软件， 核心功能兼容MangaMeeya, （ MM足够
   - 链接：https://pan.baidu.com/s/1cslxb_yBIExMzzjXp8iAog
 提取码：ttxr
 
+### 反馈
+  - 基本功能开发告一段落， 估计近期不会更新了， 有强烈需求（工作量不大的）或发现bug的发email: nessessary@qq.com
+  
 ### changelog
   - v2.6.135 2021/12/11
     - 放大缩小在所有模式下都生效， 不修改全局设置
