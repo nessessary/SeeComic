@@ -1,6 +1,7 @@
-#SeeComic
-Simple and fast manga browser.
-[中文文档](https://github.com/nessessary/SeeComic/blob/master/readme_cn.md)
+# SeeComic
+  - Simple and fast manga browser.
+  <br>
+  - [中文文档](https://github.com/nessessary/SeeComic/blob/master/readme_cn.md)
 
 ### support
 - Win7/Win10 64bit
@@ -26,4 +27,4 @@ Simple and fast manga browser.
   - This software is permanently free, no malicious code, no data collection, no Internet connection, no query upgrade, please download the release version by yourself to upgrade.
 
 ### Feedback
-  - If you have bugs or suggestions, please send issuse or email to: nesserrary@gmail.com
+  - If you have bugs or suggestions, please send issues or email to: nesserrary@gmail.com
