@@ -111,7 +111,3 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
   - v1.1.86
     - 解决rar大文件打开慢的问题
     - 解决一些bug
-
-### 反馈
-  - bug请提交issues或发送nessessary@qq.com
-  - 开发测试都是作者一人， 每次发布前都会进行测试， 不过有bug再所难免， 一旦发现bug都会很快修复。
