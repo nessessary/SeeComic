@@ -28,7 +28,7 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
 
 ### 下载
   - 该软件不是MangaMeeya的完全替代， 请仔细看特性再下载，没有的都是不支持的.
-  - 链接：[点星的同学请加qq群拿链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fejetQngpNnMA6EXwCj6SvshU4NdO4JC&authKey=BFx1mA5%2FeQZHM785Jkp0YoONoDNkGSk902OxHJjjuuOQf%2Fjsf766QDh3ei9OUpvl&noverify=0&group_code=885812949)
+  - 
   
 ### changelog
   - v2.6.152 2023/7/10
