@@ -31,6 +31,9 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
   - 
   
 ### changelog
+  - v2.7.154 2023/7/24
+    - 添加翻译对话框， 可选语言及翻译引擎; 详见[漫画图片翻译](https://github.com/nessessary/SeeComic/blob/master/comic_trans/readme.md)
+    - 命令行翻译支持多语言
   - v2.6.152 2023/7/10
     -  解决幻灯播放时下面板不隐藏的问题
     -  支持压缩包内子文件打印
