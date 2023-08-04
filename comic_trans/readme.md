@@ -5,15 +5,16 @@ comic_trans
 该软件的优点是全自动化， 一次生成，缺点是识别(本地识别, 只上传识别后的文字)使用的是默认模型，有些字形识别较差, 全图识别用gpu也比较慢； 整体用户体验比较初级， 需要更好的用户体验可以尝试使用百度翻译客户端的截图翻译.
 
 
-1. 下载见主页链接，可先下载翻译例子看一下效果,[例子预览](https://github.com/nessessary/SeeComic/blob/master/comic_trans/sample.md) 确定接受当前软件达到的效果再继续， 因为是自动生成， 排版不完美(未来主要修正排版)
+1. 下载见主页链接，可先下载翻译例子看一下效果,[例子预览](sample.md) 确定接受当前软件达到的效果再继续， 因为是自动生成， 排版不完美(未来主要修正排版)
 2. 解压到seecomic目录下seecomic\comic_trans; 解压后在客户端按T翻译当前压缩包；未安装seecomic可解压至任意目录
 3. 命令行下执行play.bat xxx(目录或压缩文件或图片文件, 压缩文件支持需要填写seecomic里的config.ini,设置路径), 第一次执行会自动下载几个大的模型文件，需要一段时间，等待即可。翻译一个30个图片左右的包，cpu需要几十分钟， gpu大约十分钟左右， 视硬件情况。(cpu废弃)
 <br>命令行参数 ：<br> --double=0 1为生成后保留原图，在seecomic里双页打开，可比对原图<br> --para=0 如果文字都在一个块里选择1(比如没有图片全页都是文字的)， 如果是气泡对话多选0
-<br>--img 输入的图片，目录，压缩包的路径<br>--multi 处理同一目录下的同名压缩文件，比如abc1.zip,abc2.zip, comic_trans.exe --img='abc1.zip' --multi=1
+<br>--img 输入的图片，目录，压缩包的路径<br>--multi 处理同一目录下的同名压缩文件，比如abc1.zip,abc2.zip, comic_trans.exe --img="abc1.zip" --multi=1
 <br> --langfrom=en 输入的语言，由easyocr支持， 常见的有en, fr, de, ja, ko
 <br> --langto=ch 暂时是固定的
-<br> --tranengine=google 或baidu 如果选择baidu，需要下载ChromeDriver; 使用谷歌翻译， 需要科学上网， 修改play.bat里的端口号。
-<br> --force 是否删除上次完成的翻译后文件
+<br> --tranengine=google 或baidu 如果选择baidu，需要下载ChromeDriver; 使用谷歌翻译， 需要科学上网， 修改trans_google.bat里的端口号。
+<br> --exec=1 完成后由seecomic打开
+<br> --force=0 是否删除上次完成的翻译后文件
 4. 会在目标文件同一目录下生成一个改名的翻译后文件
 
 
