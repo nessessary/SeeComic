@@ -3,7 +3,7 @@
 
 如果您觉得该软件对您有帮助， 请作者喝一杯咖啡， 那将是作者前进的动力！<br>
 
-![image](pics/wx_shoukuan.jpg)
+![image](https://github.com/nessessary/SeeComic/blob/master/pics/wx_shoukuan.JPG?raw=true)
 
 
 ## 下载
