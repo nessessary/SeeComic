@@ -2,7 +2,7 @@ comic_trans
 
 v1版本
 
-![image](../pics/test2_seecomic.jpg)<br>
+![image](https://github.com/nessessary/SeeComic/blob/master/pics/test2_seecomic.jpg?raw=true)
 
 漫画的图片翻译，自动翻译压缩包，同一目录下生成一个改名的压缩包
 #### 优点：
