@@ -1,8 +1,12 @@
 comic_trans
 
+未来考虑用套壳实现。。。
+
+---
+
 v1版本
 
-![image](https://github.com/nessessary/SeeComic/blob/master/pics/test2_seecomic.jpg?raw=true)
+![image](,,/pics/test2_seecomic.jpg)<br>
 
 漫画的图片翻译，自动翻译压缩包，同一目录下生成一个改名的压缩包
 #### 优点：
