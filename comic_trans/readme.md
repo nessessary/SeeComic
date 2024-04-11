@@ -1,8 +1,5 @@
 comic_trans
 
-##### 未来使用访问网站的方式。。。
-----
-
 v1版本
 
 ![image](,,/pics/test2_seecomic.jpg)<br>
