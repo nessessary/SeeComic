@@ -1,27 +1,16 @@
 comic_trans
 
-v1版本
+![image](../pics/rpa_yandex.gif)<br>
 
-![image](,,/pics/test2_seecomic.jpg)<br>
-
-漫画的图片翻译，自动翻译压缩包，同一目录下生成一个改名的压缩包
-#### 优点：
-- 识别在本地进行，无需人工操作，
-#### 缺点：
-- 排版较差，使用的paddleocr默认模型，有些特殊字体识别不出
-- 因为是python环境，执行过程较慢，30个图片一般要十几分钟，
-
-整体用户体验比较初级， 需要更好的用户体验可以尝试使用百度翻译客户端的截图翻译.
-
-### 依赖
- - 需要填写config.ini里的rar/7z路径<br>
- - 识别后的文字提交到baidu翻译， 使用chrome无头提交，因此需要安装有chrome
- - 默认GPU执行， 需要RTX显卡
- - 占用空间比较大，大约5G。
+漫画的图片翻译，通过selenium自动化提交到yandex进行翻译， 自动保存，无需人工干预, 无须gpu，网站处理。
 
 ### 安装
-网盘下载7z文件， 解压到seecomic\comic_trans<br>
+网盘下载comic_trans.7z文件， 解压到seecomic\comic_trans<br>
 测试版本， 只在开发机上跑过，不保证都能运行
 
-
-
+### 运行
+1. 配置config.ini里的压缩软件路径
+2. 需要修改seecomic的默认安装路径， 安装到没有空格的目录， 比如c:\soft\seecomic
+3. yandex的语言自动侦测会被关闭， 因此要自己选择语言， 快捷键T弹出语言选择
+4. 运行后弹出的cef窗体不要关闭，也不用干预，退出时会自行关闭
+5. 完成后会生成一个改名的包
