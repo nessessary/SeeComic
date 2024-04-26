@@ -13,5 +13,5 @@ comic_trans
 1. 配置config.ini里的压缩软件路径; 如果comictrans_engine=google改为comictrans_engine=baidu
 2. 需要修改seecomic的默认安装路径， 安装到没有空格的目录， 比如c:\soft\seecomic
 3. yandex的语言自动侦测会被关闭， 因此要自己选择语言， 快捷键T弹出语言选择
-4. 运行后弹出的cef窗体不要关闭，也不用干预，执行完成后会自行关闭
+4. 运行后弹出的cef窗体会自行隐藏, 执行完成后关闭
 5. 完成后在同一目录会生成一个改名的包
