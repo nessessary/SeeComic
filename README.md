@@ -30,7 +30,6 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
 ### changelog
 2024/11/18 v2.8.181.0
 - webp 修正
-- yandex tanslate打不开， 废弃
 
 2024/10/27  v2.8.177.0
 - 手动缩放默认带到下一页面; 也可以在config.ini里设置
