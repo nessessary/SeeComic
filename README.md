@@ -22,12 +22,16 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
   - 操作基本兼容MangaMeeya, 鼠标左键下一页，右键上一页
   - 压缩文件删除子文件: 按快捷键(Ctrl+Del)删除当前显示的压缩文件中的子文件， 在该压缩文件关闭时（或程序关闭时)生效; 需要在config.ini中设置本地的压缩软件路径.
   - waifu2x滤镜： (W)在内存中处理， 不破坏原图, 使用默认参数; 需要gpu支持(只在rtx显卡上测试过)，加载较慢.
-  - [漫画图片翻译](comic_trans/readme.md)：(T) config.ini里设置引擎
+  - [漫画图片翻译](comic_trans/readme.md)：(T/Ctrl+T) config.ini里设置引擎
     - Yandex 生成一本新的翻译后压缩包, 在一个命令行(需要单独下载)中生成， 生成后自动打开;
     - Baidu 打开百度翻译客户端， 发送热键Ctrl+Alt+X
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
 
 ### changelog
+2025/6/17 v2.8.190.0
+- T/Ctrl+T baidu/yandex
+- 修复yandex翻译, 支持webp
+
 2025/1/12 v2.8.188.0
 - webp读取失败卡死的问题
 
