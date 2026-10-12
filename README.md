@@ -23,7 +23,7 @@ Windows下看漫画的工具软件， 主要操作兼容MangaMeeya, （ MM足够
   - 压缩文件删除子文件: 按快捷键(Ctrl+Del)删除当前显示的压缩文件中的子文件， 在该压缩文件关闭时（或程序关闭时)生效; 需要在config.ini中设置本地的压缩软件路径.
   - [漫画图片翻译](comic_trans/readme.md)：(T/Ctrl+T) config.ini里设置引擎
     - Baidu 打开百度翻译客户端， 发送热键Ctrl+Alt+X
-  - GPU渲染， 对于大图用gpu快， 小图用cpu快， 3.0以上支持gpu，可以用--gpu=0来显示使用cpu
+  - GPU渲染， 对于大图用gpu快， 小图用cpu快， 3.0以上支持gpu，可以用--gpu=0来显式使用cpu，win7默认使用cpu
   - 本软件无恶意代码，不收集数据， 无任何互联网连接， 不查询升级， 升级自行到该发布页找新版本。
 
 ### changelog
